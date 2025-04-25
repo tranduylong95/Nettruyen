@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\0e3dfd61-72a7-4d13-9c41-9570f020d039.png",
+      "PackagePath": "staticwebassets\\images\\0e3dfd61-72a7-4d13-9c41-9570f020d039.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\16383065-e8e6-4e7f-8946-de1d9528089b.png",
+      "PackagePath": "staticwebassets\\images\\16383065-e8e6-4e7f-8946-de1d9528089b.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\45dcf2cd-65c0-41f6-9dcc-b355ba69a6c6.png",
+      "PackagePath": "staticwebassets\\images\\45dcf2cd-65c0-41f6-9dcc-b355ba69a6c6.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\69c707af-2153-4d64-82a9-49159bea659e.png",
+      "PackagePath": "staticwebassets\\images\\69c707af-2153-4d64-82a9-49159bea659e.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\72798868-c7e2-476a-b9f0-63430db02a2e.png",
+      "PackagePath": "staticwebassets\\images\\72798868-c7e2-476a-b9f0-63430db02a2e.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\77c4fb54-b057-465a-afa4-2efebee4c987.png",
+      "PackagePath": "staticwebassets\\images\\77c4fb54-b057-465a-afa4-2efebee4c987.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\7d13e4dc-c33d-4453-aea3-86c37c0cc609.png",
+      "PackagePath": "staticwebassets\\images\\7d13e4dc-c33d-4453-aea3-86c37c0cc609.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\8350c5bf-c38a-4de2-a5cb-9dd5db0a741e.png",
+      "PackagePath": "staticwebassets\\images\\8350c5bf-c38a-4de2-a5cb-9dd5db0a741e.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\91b44058-d120-4f25-8713-7ccb72a11f96.png",
+      "PackagePath": "staticwebassets\\images\\91b44058-d120-4f25-8713-7ccb72a11f96.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\b2baf69d-f17d-49d9-9ddd-8f988002e81e.png",
+      "PackagePath": "staticwebassets\\images\\b2baf69d-f17d-49d9-9ddd-8f988002e81e.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\b4662f5e-23b3-4747-ab61-320a91a9ca39.png",
+      "PackagePath": "staticwebassets\\images\\b4662f5e-23b3-4747-ab61-320a91a9ca39.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\c205fe6e-dc15-4070-bbbf-5bd54ef4927c.png",
+      "PackagePath": "staticwebassets\\images\\c205fe6e-dc15-4070-bbbf-5bd54ef4927c.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\c6e6a070-122f-40f2-8a82-2a99f9c9c453.png",
+      "PackagePath": "staticwebassets\\images\\c6e6a070-122f-40f2-8a82-2a99f9c9c453.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\e33f2759-b789-40d9-8e30-1f6ca6ecddc2.png",
+      "PackagePath": "staticwebassets\\images\\e33f2759-b789-40d9-8e30-1f6ca6ecddc2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\no-image.jpg",
+      "PackagePath": "staticwebassets\\images\\no-image.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.nettruyen.props",
+      "PackagePath": "build\\nettruyen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.nettruyen.props",
+      "PackagePath": "buildMultiTargeting\\nettruyen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.nettruyen.props",
+      "PackagePath": "buildTransitive\\nettruyen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.nettruyen.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.nettruyen.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

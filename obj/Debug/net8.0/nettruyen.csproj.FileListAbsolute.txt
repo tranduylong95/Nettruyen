@@ -80,3 +80,5 @@ C:\Users\ADMIN\source\repos\nettruyen\nettruyen\bin\Debug\net8.0\runtimes\win-x6
 C:\Users\ADMIN\source\repos\nettruyen\nettruyen\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\ADMIN\source\repos\nettruyen\nettruyen\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\ADMIN\source\repos\nettruyen\nettruyen\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\ADMIN\source\repos\nettruyen\nettruyen\obj\Debug\net8.0\nettruyen.sourcelink.json
+C:\Users\ADMIN\source\repos\nettruyen\nettruyen\bin\Debug\net8.0\nettruyen.staticwebassets.runtime.json

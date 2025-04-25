@@ -1,12 +1,1567 @@
 {
   "Version": 1,
-  "Hash": "K8Iakug42S0hHG/rdYBpo8NEphCAUe/3PzLr18I7R3o=",
+  "Hash": "DGcQywuWlv+BJ5HvnBj5cN23DCZOgVKGkoGh4tF6e+0=",
   "Source": "nettruyen",
   "BasePath": "_content/nettruyen",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "nettruyen\\wwwroot",
+      "Source": "nettruyen",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\",
+      "BasePath": "_content/nettruyen",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\0e3dfd61-72a7-4d13-9c41-9570f020d039.png",
+      "SourceId": "nettruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\",
+      "BasePath": "_content/nettruyen",
+      "RelativePath": "images/0e3dfd61-72a7-4d13-9c41-9570f020d039#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s80fcd0h1p",
+      "Integrity": "/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\0e3dfd61-72a7-4d13-9c41-9570f020d039.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\16383065-e8e6-4e7f-8946-de1d9528089b.png",
+      "SourceId": "nettruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\",
+      "BasePath": "_content/nettruyen",
+      "RelativePath": "images/16383065-e8e6-4e7f-8946-de1d9528089b#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s80fcd0h1p",
+      "Integrity": "/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\16383065-e8e6-4e7f-8946-de1d9528089b.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\45dcf2cd-65c0-41f6-9dcc-b355ba69a6c6.png",
+      "SourceId": "nettruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\",
+      "BasePath": "_content/nettruyen",
+      "RelativePath": "images/45dcf2cd-65c0-41f6-9dcc-b355ba69a6c6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s80fcd0h1p",
+      "Integrity": "/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\45dcf2cd-65c0-41f6-9dcc-b355ba69a6c6.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\69c707af-2153-4d64-82a9-49159bea659e.png",
+      "SourceId": "nettruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\",
+      "BasePath": "_content/nettruyen",
+      "RelativePath": "images/69c707af-2153-4d64-82a9-49159bea659e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s80fcd0h1p",
+      "Integrity": "/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\69c707af-2153-4d64-82a9-49159bea659e.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\72798868-c7e2-476a-b9f0-63430db02a2e.png",
+      "SourceId": "nettruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\",
+      "BasePath": "_content/nettruyen",
+      "RelativePath": "images/72798868-c7e2-476a-b9f0-63430db02a2e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s80fcd0h1p",
+      "Integrity": "/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\72798868-c7e2-476a-b9f0-63430db02a2e.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\77c4fb54-b057-465a-afa4-2efebee4c987.png",
+      "SourceId": "nettruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\",
+      "BasePath": "_content/nettruyen",
+      "RelativePath": "images/77c4fb54-b057-465a-afa4-2efebee4c987#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s80fcd0h1p",
+      "Integrity": "/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\77c4fb54-b057-465a-afa4-2efebee4c987.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\7d13e4dc-c33d-4453-aea3-86c37c0cc609.png",
+      "SourceId": "nettruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\",
+      "BasePath": "_content/nettruyen",
+      "RelativePath": "images/7d13e4dc-c33d-4453-aea3-86c37c0cc609#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s80fcd0h1p",
+      "Integrity": "/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7d13e4dc-c33d-4453-aea3-86c37c0cc609.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\8350c5bf-c38a-4de2-a5cb-9dd5db0a741e.png",
+      "SourceId": "nettruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\",
+      "BasePath": "_content/nettruyen",
+      "RelativePath": "images/8350c5bf-c38a-4de2-a5cb-9dd5db0a741e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s80fcd0h1p",
+      "Integrity": "/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8350c5bf-c38a-4de2-a5cb-9dd5db0a741e.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\91b44058-d120-4f25-8713-7ccb72a11f96.png",
+      "SourceId": "nettruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\",
+      "BasePath": "_content/nettruyen",
+      "RelativePath": "images/91b44058-d120-4f25-8713-7ccb72a11f96#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s80fcd0h1p",
+      "Integrity": "/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\91b44058-d120-4f25-8713-7ccb72a11f96.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\b2baf69d-f17d-49d9-9ddd-8f988002e81e.png",
+      "SourceId": "nettruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\",
+      "BasePath": "_content/nettruyen",
+      "RelativePath": "images/b2baf69d-f17d-49d9-9ddd-8f988002e81e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s80fcd0h1p",
+      "Integrity": "/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b2baf69d-f17d-49d9-9ddd-8f988002e81e.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\b4662f5e-23b3-4747-ab61-320a91a9ca39.png",
+      "SourceId": "nettruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\",
+      "BasePath": "_content/nettruyen",
+      "RelativePath": "images/b4662f5e-23b3-4747-ab61-320a91a9ca39#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s80fcd0h1p",
+      "Integrity": "/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b4662f5e-23b3-4747-ab61-320a91a9ca39.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\c205fe6e-dc15-4070-bbbf-5bd54ef4927c.png",
+      "SourceId": "nettruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\",
+      "BasePath": "_content/nettruyen",
+      "RelativePath": "images/c205fe6e-dc15-4070-bbbf-5bd54ef4927c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s80fcd0h1p",
+      "Integrity": "/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c205fe6e-dc15-4070-bbbf-5bd54ef4927c.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\c6e6a070-122f-40f2-8a82-2a99f9c9c453.png",
+      "SourceId": "nettruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\",
+      "BasePath": "_content/nettruyen",
+      "RelativePath": "images/c6e6a070-122f-40f2-8a82-2a99f9c9c453#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s80fcd0h1p",
+      "Integrity": "/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c6e6a070-122f-40f2-8a82-2a99f9c9c453.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\e33f2759-b789-40d9-8e30-1f6ca6ecddc2.png",
+      "SourceId": "nettruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\",
+      "BasePath": "_content/nettruyen",
+      "RelativePath": "images/e33f2759-b789-40d9-8e30-1f6ca6ecddc2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s80fcd0h1p",
+      "Integrity": "/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e33f2759-b789-40d9-8e30-1f6ca6ecddc2.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\no-image.jpg",
+      "SourceId": "nettruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\",
+      "BasePath": "_content/nettruyen",
+      "RelativePath": "images/no-image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jtnc33mvbn",
+      "Integrity": "aQ0OaQ9L4D2Zt3unDsD6oo9861OCbL8cluhd53xn0fs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\no-image.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/0e3dfd61-72a7-4d13-9c41-9570f020d039.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\0e3dfd61-72a7-4d13-9c41-9570f020d039.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:34:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/0e3dfd61-72a7-4d13-9c41-9570f020d039.s80fcd0h1p.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\0e3dfd61-72a7-4d13-9c41-9570f020d039.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:34:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s80fcd0h1p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/0e3dfd61-72a7-4d13-9c41-9570f020d039.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/16383065-e8e6-4e7f-8946-de1d9528089b.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\16383065-e8e6-4e7f-8946-de1d9528089b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/16383065-e8e6-4e7f-8946-de1d9528089b.s80fcd0h1p.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\16383065-e8e6-4e7f-8946-de1d9528089b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s80fcd0h1p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/16383065-e8e6-4e7f-8946-de1d9528089b.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/45dcf2cd-65c0-41f6-9dcc-b355ba69a6c6.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\45dcf2cd-65c0-41f6-9dcc-b355ba69a6c6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:45:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/45dcf2cd-65c0-41f6-9dcc-b355ba69a6c6.s80fcd0h1p.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\45dcf2cd-65c0-41f6-9dcc-b355ba69a6c6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:45:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s80fcd0h1p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/45dcf2cd-65c0-41f6-9dcc-b355ba69a6c6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/69c707af-2153-4d64-82a9-49159bea659e.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\69c707af-2153-4d64-82a9-49159bea659e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:52:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/69c707af-2153-4d64-82a9-49159bea659e.s80fcd0h1p.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\69c707af-2153-4d64-82a9-49159bea659e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:52:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s80fcd0h1p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/69c707af-2153-4d64-82a9-49159bea659e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/72798868-c7e2-476a-b9f0-63430db02a2e.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\72798868-c7e2-476a-b9f0-63430db02a2e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:45:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/72798868-c7e2-476a-b9f0-63430db02a2e.s80fcd0h1p.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\72798868-c7e2-476a-b9f0-63430db02a2e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:45:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s80fcd0h1p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/72798868-c7e2-476a-b9f0-63430db02a2e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/77c4fb54-b057-465a-afa4-2efebee4c987.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\77c4fb54-b057-465a-afa4-2efebee4c987.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/77c4fb54-b057-465a-afa4-2efebee4c987.s80fcd0h1p.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\77c4fb54-b057-465a-afa4-2efebee4c987.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s80fcd0h1p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/77c4fb54-b057-465a-afa4-2efebee4c987.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/7d13e4dc-c33d-4453-aea3-86c37c0cc609.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\7d13e4dc-c33d-4453-aea3-86c37c0cc609.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:53:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/7d13e4dc-c33d-4453-aea3-86c37c0cc609.s80fcd0h1p.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\7d13e4dc-c33d-4453-aea3-86c37c0cc609.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:53:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s80fcd0h1p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/7d13e4dc-c33d-4453-aea3-86c37c0cc609.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/8350c5bf-c38a-4de2-a5cb-9dd5db0a741e.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\8350c5bf-c38a-4de2-a5cb-9dd5db0a741e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:53:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/8350c5bf-c38a-4de2-a5cb-9dd5db0a741e.s80fcd0h1p.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\8350c5bf-c38a-4de2-a5cb-9dd5db0a741e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:53:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s80fcd0h1p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/8350c5bf-c38a-4de2-a5cb-9dd5db0a741e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/91b44058-d120-4f25-8713-7ccb72a11f96.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\91b44058-d120-4f25-8713-7ccb72a11f96.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:58:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/91b44058-d120-4f25-8713-7ccb72a11f96.s80fcd0h1p.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\91b44058-d120-4f25-8713-7ccb72a11f96.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:58:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s80fcd0h1p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/91b44058-d120-4f25-8713-7ccb72a11f96.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/b2baf69d-f17d-49d9-9ddd-8f988002e81e.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\b2baf69d-f17d-49d9-9ddd-8f988002e81e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:41:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/b2baf69d-f17d-49d9-9ddd-8f988002e81e.s80fcd0h1p.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\b2baf69d-f17d-49d9-9ddd-8f988002e81e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:41:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s80fcd0h1p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/b2baf69d-f17d-49d9-9ddd-8f988002e81e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/b4662f5e-23b3-4747-ab61-320a91a9ca39.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\b4662f5e-23b3-4747-ab61-320a91a9ca39.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:32:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/b4662f5e-23b3-4747-ab61-320a91a9ca39.s80fcd0h1p.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\b4662f5e-23b3-4747-ab61-320a91a9ca39.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:32:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s80fcd0h1p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/b4662f5e-23b3-4747-ab61-320a91a9ca39.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/c205fe6e-dc15-4070-bbbf-5bd54ef4927c.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\c205fe6e-dc15-4070-bbbf-5bd54ef4927c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:46:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/c205fe6e-dc15-4070-bbbf-5bd54ef4927c.s80fcd0h1p.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\c205fe6e-dc15-4070-bbbf-5bd54ef4927c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:46:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s80fcd0h1p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/c205fe6e-dc15-4070-bbbf-5bd54ef4927c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/c6e6a070-122f-40f2-8a82-2a99f9c9c453.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\c6e6a070-122f-40f2-8a82-2a99f9c9c453.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:45:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/c6e6a070-122f-40f2-8a82-2a99f9c9c453.s80fcd0h1p.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\c6e6a070-122f-40f2-8a82-2a99f9c9c453.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:45:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s80fcd0h1p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/c6e6a070-122f-40f2-8a82-2a99f9c9c453.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/e33f2759-b789-40d9-8e30-1f6ca6ecddc2.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\e33f2759-b789-40d9-8e30-1f6ca6ecddc2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:45:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/e33f2759-b789-40d9-8e30-1f6ca6ecddc2.s80fcd0h1p.png",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\e33f2759-b789-40d9-8e30-1f6ca6ecddc2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:45:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s80fcd0h1p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/e33f2759-b789-40d9-8e30-1f6ca6ecddc2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/M7/yaqooKJ63zMCP9rLib3/Hx93+7xVytsqhpGTASw="
+        }
+      ]
+    },
+    {
+      "Route": "images/no-image.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\no-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34534"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aQ0OaQ9L4D2Zt3unDsD6oo9861OCbL8cluhd53xn0fs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 14:08:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aQ0OaQ9L4D2Zt3unDsD6oo9861OCbL8cluhd53xn0fs="
+        }
+      ]
+    },
+    {
+      "Route": "images/no-image.jtnc33mvbn.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\nettruyen\\nettruyen\\wwwroot\\images\\no-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34534"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aQ0OaQ9L4D2Zt3unDsD6oo9861OCbL8cluhd53xn0fs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 14:08:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jtnc33mvbn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/no-image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aQ0OaQ9L4D2Zt3unDsD6oo9861OCbL8cluhd53xn0fs="
+        }
+      ]
+    }
+  ]
 }

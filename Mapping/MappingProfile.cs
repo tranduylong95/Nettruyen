@@ -9,6 +9,12 @@ namespace nettruyen.Mapping
     {
         public MappingProfile() {
             CreateMap<Category, CategoryDTO>().ReverseMap();
+            CreateMap<Comic, ComicDTO>()
+                .ForMember(dest => dest.Categories, opt => opt.MapFrom(src => src.ComicCategories.Select(cc => cc.Category).ToList()))
+                .ReverseMap();
+            CreateMap<CreateComicDTO, Comic>()
+          .ForMember(dest => dest.ComicCategories, opt => opt.Ignore())
+          .ForMember(dest => dest.Image, opt => opt.Ignore());
         }
 
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nettruyen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c40ab33c5cd9c47a63f76e724f122fd090a9e851")]
 [assembly: System.Reflection.AssemblyProductAttribute("nettruyen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nettruyen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

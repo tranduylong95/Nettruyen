@@ -17,6 +17,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddAutoMapper(typeof(MappingProfile));
 // Đăng ký serive 
 builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<IComicService, ComicService>();
 
 builder.Services.AddTransient<IValidator<CategoryDTO>, CategoryDTOValidator>();
 
@@ -40,5 +41,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.MapControllers();
+app.UseStaticFiles();
 
 app.Run();
