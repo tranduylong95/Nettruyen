@@ -1,0 +1,6 @@
+@nettruyen_HostAddress = http://localhost:5216
+
+GET {{nettruyen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
