@@ -15,6 +15,9 @@ namespace nettruyen.Mapping
             CreateMap<CreateComicDTO, Comic>()
           .ForMember(dest => dest.ComicCategories, opt => opt.Ignore())
           .ForMember(dest => dest.Image, opt => opt.Ignore());
+            CreateMap<UpdateComicDTO, Comic>()
+       .ForMember(dest => dest.ComicCategories, opt => opt.Ignore())
+       .ForMember(dest => dest.Image, opt => opt.Ignore());
         }
 
     }

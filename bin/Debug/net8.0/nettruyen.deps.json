@@ -16,6 +16,11 @@
         },
         "runtime": {
           "nettruyen.dll": {}
+        },
+        "resources": {
+          "vi/nettruyen.resources.dll": {
+            "locale": "vi"
+          }
         }
       },
       "AutoMapper/14.0.0": {

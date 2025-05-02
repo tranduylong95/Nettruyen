@@ -17,6 +17,7 @@ namespace nettruyen.Validators.Admin
             _context = context;
 
             RuleFor(x => x.Name)
+             .NotNull().WithMessage("Tên danh mục là bắt buộc.")
              .NotEmpty().WithMessage("Tên danh mục là bắt buộc.")
              .MaximumLength(100).WithMessage("Tên danh mục không được quá 100 ký tự.")
              .MustAsync(BeUniqueName).WithMessage("Tên danh mục đã tồn tại.");

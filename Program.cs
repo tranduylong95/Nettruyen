@@ -5,6 +5,9 @@ using nettruyen.Services;
 using nettruyen.Validators.Admin;
 using FluentValidation;
 using nettruyen.Dto.Admin;
+using Microsoft.AspNetCore.Localization;
+using System.Globalization;
+using Microsoft.AspNetCore.Mvc;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,11 +23,19 @@ builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<IComicService, ComicService>();
 
 builder.Services.AddTransient<IValidator<CategoryDTO>, CategoryDTOValidator>();
+builder.Services.AddTransient<IValidator<CreateComicDTO>, ComicDTOCreateValidator>();
+builder.Services.AddTransient<IValidator<UpdateComicDTO>, ComicDTOUpdateValidator>();
+
 
 builder.Services.AddControllers();
+builder.Services.Configure<ApiBehaviorOptions>(options =>
+{
+    options.SuppressModelStateInvalidFilter = true;
+});
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
 
 var app = builder.Build();
 using (var scope = app.Services.CreateScope())

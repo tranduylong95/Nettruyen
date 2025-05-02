@@ -47,14 +47,54 @@ namespace nettruyen.Services
            
 
             _context.Comic.Add(comic);
-            await _context.SaveChangesAsync();
+             await _context.SaveChangesAsync();
             comic.ComicCategories = dto.CategoryIds.Select(cid => new ComicCategory
             {
                 idComic = comic.Id,
                 idCategory = cid
             }).ToList();
             _context.ComicCategories.AddRange(comic.ComicCategories);
+            await _context.SaveChangesAsync();
+           
+            comic = await _context.Comic
+            .Include(c => c.ComicCategories)
+           .ThenInclude(cc => cc.Category)
+           .FirstOrDefaultAsync(c => c.Id == comic.Id);
 
+            return _mapper.Map<ComicDTO>(comic);
+        }
+        public async Task<ComicDTO>UpdateAsync(UpdateComicDTO dto)
+        {
+            var comic = await _context.Comic
+            .Include(c => c.ComicCategories)
+            .FirstOrDefaultAsync(c => c.Id == dto.Id);
+
+            _mapper.Map(dto, comic);
+
+            // Lấy danh sách category hiện có
+            var currentCategoryIds = comic.ComicCategories.Select(cc => cc.idCategory).ToList();
+
+            // Xác định category cần thêm
+            var categoriesToAdd = dto.CategoryIds.Except(currentCategoryIds).ToList();
+
+            // Xác định category cần xóa
+            var categoriesToRemove = comic.ComicCategories
+                .Where(cc => !dto.CategoryIds.Contains(cc.idCategory))
+                .ToList();
+
+            // Xóa những cái không còn
+            _context.ComicCategories.RemoveRange(categoriesToRemove);
+
+            // Thêm những cái mới
+            foreach (var categoryId in categoriesToAdd)
+            {
+                comic.ComicCategories.Add(new ComicCategory
+                {
+                    idComic = comic.Id,
+                    idCategory = categoryId
+                });
+            }
+            await _context.SaveChangesAsync();
             return _mapper.Map<ComicDTO>(comic);
         }
         private async Task<string> SaveImageOrDefaultAsync(IFormFile? image)

@@ -8,5 +8,6 @@ namespace nettruyen.Services
         Task<PagedResult<ComicDTO>> GetAllComicsAsync(int pageNumber, int pageSize);
         Task<ComicDTO?> FindComicById(int id);
         Task<ComicDTO> CreateAsync(CreateComicDTO dto);
+        Task<ComicDTO> UpdateAsync(UpdateComicDTO dto);
     }
 }
